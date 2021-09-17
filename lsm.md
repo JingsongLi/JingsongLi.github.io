@@ -10,7 +10,7 @@
     </script>
 </head>
 
-# LSM Learning materials
+## LSM Learning materials
 
 LSM is widely used. It can be said that most distributed systems have its shadow:
 - KV: RocksDb
@@ -22,7 +22,7 @@ LSM is widely used. It can be said that most distributed systems have its shadow
 
 In particular, the latest MPP OLAP and streaming systems expand the boundary of LSM.
 
-## Comprehensive
+### Comprehensive
 
 LSM-based Storage Techniques: A Survey
 https://arxiv.org/pdf/1812.07527v1.pdf
@@ -31,7 +31,7 @@ LSM-based Storage Techniques: A Survey (Chinese)
 https://zhuanlan.zhihu.com/p/400293980
 https://zhuanlan.zhihu.com/p/403396976
 
-## Compaction
+### Compaction
 
 Scylla’s Compaction Strategies Series: Space Amplification in Size-Tiered Compaction
 https://www.scylladb.com/2018/01/17/compaction-series-space-amplification/
@@ -51,12 +51,10 @@ https://nivdayan.github.io/
 LSM Merge in Clickhouse
 Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
 
-## Read
+### Read
 
 Monkey: Optimal Navigable Key-Value Store
 https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
-
-## Separating Keys from Values
 
 WiscKey: Separating Keys from Values in SSD-conscious Storage
 https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf
@@ -73,7 +71,7 @@ https://en.pingcap.com/blog/titan-storage-engine-design-and-implementation
 WiscKey 发布的五年后，工业界用上了 KV 分离吗？
 https://zhuanlan.zhihu.com/p/397466422
 
-## Optimization for OLAP
+### Optimization for OLAP
 
 Clickhouse Merge Tree Engines (Collapsing tree: Aggregation for CDC)
 https://clickhouse.tech/docs/en/engines/table-engines/mergetree-family/collapsingmergetree/
