@@ -1,6 +1,8 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/JingsongLi/JingsongLi.github.io/main/portrait.jpg" /> </div>
 
 
+
+
 I am programmer at Alibaba Cloud - Open Source Big Data Department - Flink SQL and product technique.
 
 For a long time, I have been working in the field of distributed streaming/batch system and have also made some research on the data lake and OLAP MPP. Using Java and Scala language, also about to try Rust.
