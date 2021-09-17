@@ -30,6 +30,9 @@ https://www.scylladb.com/2018/01/17/compaction-series-space-amplification/
 Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging (2018)
 https://nivdayan.github.io/dostoevsky.pdf
 
+Dostoevsky Chinese Guide reading
+https://www.jianshu.com/p/8fb8f2458253
+
 Blog of Dostoevsky Author: Niv Dayan
 https://nivdayan.github.io/
 
