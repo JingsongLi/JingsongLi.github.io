@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to JingsongLi Blog
 
-You can use the [editor on GitHub](https://github.com/JingsongLi/JingsongLi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am programmer at Alibaba Cloud - Open Source Big Data Department - Flink SQL and product technique.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For a long time, I have been working in the field of distributed streaming/batch system and have also made some research on the OLAP MPP. Using Java and Scala language, also about to try Rust.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JingsongLi/JingsongLi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Active in:
+- [LSM Learning materials](https://github.com/JingsongLi/JingsongLi.github.io/blob/main/lsm.md)
+- To be continue...
