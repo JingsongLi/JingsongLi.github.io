@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/JingsongLi/JingsongLi.github.io/blob/main/portrait.png)
+![image](https://raw.githubusercontent.com/JingsongLi/JingsongLi.github.io/main/portrait.png)
 
 I am programmer at Alibaba Cloud - Open Source Big Data Department - Flink SQL and product technique.
 
