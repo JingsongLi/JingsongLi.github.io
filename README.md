@@ -10,5 +10,5 @@ I am the committer of:
 - [Apache Beam](https://beam.apache.org/) unified programming model for streaming and batch
 
 Active in:
-- [LSM Learning materials](https://github.com/JingsongLi/JingsongLi.github.io/blob/main/lsm.md)
+- [LSM Learning materials](https://jingsongli.github.io/lsm.html)
 - To be continue...
