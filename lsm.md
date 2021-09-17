@@ -1,5 +1,14 @@
 # LSM Learning materials
 
+## Comprehensive
+
+LSM-based Storage Techniques: A Survey
+https://arxiv.org/pdf/1812.07527v1.pdf
+
+LSM-based Storage Techniques: A Survey (Chinese)
+https://zhuanlan.zhihu.com/p/400293980
+https://zhuanlan.zhihu.com/p/403396976
+
 ## Compaction
 
 Scylla’s Compaction Strategies Series: Space Amplification in Size-Tiered Compaction
@@ -16,6 +25,28 @@ https://nivdayan.github.io/
 
 LSM Merge in Clickhouse
 Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
+
+## Read
+
+Monkey: Optimal Navigable Key-Value Store
+https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+
+## KV
+
+WiscKey: Separating Keys from Values in SSD-conscious Storage
+https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf
+
+Introducing Badger: A fast key-value store written purely in Go
+https://dgraph.io/blog/post/badger/
+
+TerarkDB was forked from RocksDB v5.18.3 and aims to build a better replacement of RocksDB in most cases
+https://bytedance.feishu.cn/docs/doccnZmYFqHBm06BbvYgjsHHcKc#
+
+Titan: A RocksDB Plugin to Reduce Write Amplification
+https://en.pingcap.com/blog/titan-storage-engine-design-and-implementation
+
+WiscKey 发布的五年后，工业界用上了 KV 分离吗？
+https://zhuanlan.zhihu.com/p/397466422
 
 ## Optimization for OLAP
 
