@@ -31,7 +31,7 @@ Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
 Monkey: Optimal Navigable Key-Value Store
 https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
 
-## KV
+## Separating Keys from Values
 
 WiscKey: Separating Keys from Values in SSD-conscious Storage
 https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf
