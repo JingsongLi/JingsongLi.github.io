@@ -1,5 +1,15 @@
 # LSM Learning materials
 
+LSM is widely used. It can be said that most distributed systems have its shadow:
+- KV: RocksDb
+- Database: MyRocks
+- Distributed KV: HBase, Cassandra
+- Distributed Database: TiDB, CockroachDB
+- OLAP: Clickhouse, Hologres
+- Streaming State: Flink, KSQL
+
+In particular, the latest MPP OLAP and streaming systems expand the boundary of LSM.
+
 ## Comprehensive
 
 LSM-based Storage Techniques: A Survey
