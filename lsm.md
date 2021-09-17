@@ -34,7 +34,7 @@ In particular, the latest MPP OLAP and streaming systems expand the boundary of 
 
 [Scylla’s Compaction Strategies Series: Space Amplification in Size-Tiered Compaction](https://www.scylladb.com/2018/01/17/compaction-series-space-amplification/)
 
-[Scylla’s Compaction Strategies Series: Space Amplification in Size-Tiered Compaction]https://www.scylladb.com/2018/01/17/compaction-series-space-amplification/
+[Scylla’s Compaction Strategies Series: Write Amplification in Leveled Compaction](https://www.scylladb.com/2018/01/31/compaction-series-leveled-compaction/)
 
 [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging (2018)](https://nivdayan.github.io/dostoevsky.pdf)
 
