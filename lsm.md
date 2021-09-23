@@ -45,8 +45,7 @@ In particular, the latest MPP OLAP and streaming systems expand the boundary of 
 LSM Merge in Clickhouse
 Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
 
-LSM Compaction analysis (Chinese)
-https://zhuanlan.zhihu.com/p/140325974
+[LSM Compaction analysis (Chinese)](https://zhuanlan.zhihu.com/p/140325974)
 
 ### Read
 
