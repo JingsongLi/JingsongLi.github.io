@@ -45,6 +45,9 @@ In particular, the latest MPP OLAP and streaming systems expand the boundary of 
 LSM Merge in Clickhouse
 Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
 
+LSM Compaction analysis (Chinese)
+https://zhuanlan.zhihu.com/p/140325974
+
 ### Read
 
 [Monkey: Optimal Navigable Key-Value Store](https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf)
