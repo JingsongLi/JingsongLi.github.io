@@ -47,6 +47,8 @@ Clickhouse/src/Storages/MergeTree/SimpleMergeSelector
 
 [LSM Compaction analysis (Chinese)](https://zhuanlan.zhihu.com/p/140325974)
 
+[RocksDb Compaction (Chinese)](https://www.cnblogs.com/cchust/p/6007486.html)
+
 ### Read
 
 [Monkey: Optimal Navigable Key-Value Store](https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf)
